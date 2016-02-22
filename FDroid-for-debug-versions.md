@@ -4,10 +4,16 @@ The repo url is `https://fdroid.j2ghz.com/repo`. If you want to see all versions
 
 Example packages:
 
-| App id                           | App name         | Explanation             | Version    | Version explanation             |
-|----------------------------------|------------------|-------------------------|------------|---------------------------------|
-| eu.kanade.tachiyomi.debug        | Tachiyomi        | Builds of master branch | 0.1.4.498  | [latest release].[commit count] |
-| eu.kanade.tachiyomi.backup.debug | Tachiyomi backup | Builds of backup branch | backup.623 | [branch].[build number]         |
-| eu.kanade.tachiyomi.v0.1.0       | Tachiyomi v0.1.0 | Builds of tag v0.1.0    | v0.1.0.448 | [tag].[build number]            |
+| App id                           | App name         | Explanation             |
+|----------------------------------|------------------|-------------------------|
+| eu.kanade.tachiyomi.debug        | Tachiyomi        | Builds of master branch |
+| eu.kanade.tachiyomi.backup.debug | Tachiyomi backup | Builds of backup branch |
+| eu.kanade.tachiyomi.v0.1.0       | Tachiyomi v0.1.0 | Builds of tag v0.1.0    |
+
+| Version    | Version explanation             |
+|------------|---------------------------------|
+| 0.1.4.498  | [latest release].[commit count] |
+| backup.623 | [branch].[build number]         |
+| v0.1.0.448 | [tag].[build number]            |
 
 I was also building pull requests, but since I didn't use it, I disabled it. If someone is interested in them, I can enable it.
