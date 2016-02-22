@@ -8,3 +8,4 @@
  * Hummingbird [#66](https://github.com/inorichi/tachiyomi/issues/66)
 * Providers
  * Japscan [#29](https://github.com/inorichi/tachiyomi/issues/29)
+* [[Debug updates|FDroid-for-debug-versions]]
