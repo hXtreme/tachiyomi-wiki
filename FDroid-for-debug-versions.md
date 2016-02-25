@@ -17,3 +17,7 @@ Example packages:
 | v0.1.0.448 | [tag].[build number]            |
 
 I was also building pull requests, but since I didn't use it, I disabled it. If someone is interested in them, I can enable it.
+
+### TL;DR
+1. Add `https://fdroid.j2ghz.com/repo` as repo to fdroid
+2. Install `Tachiyomi` from F-Droid (app id `eu.kanade.tachiyomi.debug`)
