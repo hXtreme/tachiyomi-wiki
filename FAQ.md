@@ -10,3 +10,4 @@
 * Providers
  * Japscan [#29](https://github.com/inorichi/tachiyomi/issues/29)
  * Russian [#171](https://github.com/inorichi/tachiyomi/issues/171)
+* Settings storage [#195](https://github.com/inorichi/tachiyomi/issues/195)
