@@ -1,4 +1,3 @@
-## Icon Rules
 ## Black
     android:fillColor="#FF000000"
 ## White
