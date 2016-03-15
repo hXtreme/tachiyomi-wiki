@@ -1,4 +1,4 @@
-# [15.03.2016] There are some issues with fdroid, no new versions for now
+# [15.03.2016] There are some issues with fdroid, no new versions for now, trying to fix
 
 There is a repo for debug versions available, maintained by [@j2ghz](https://github.com/j2ghz).
 
