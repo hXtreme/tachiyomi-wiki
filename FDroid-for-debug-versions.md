@@ -1,3 +1,5 @@
+# In process of trying out bamboo, expect issues 23.4.
+
 There is a repo for debug versions available, maintained by [@j2ghz](https://github.com/j2ghz).
 
 The repo url is `https://fdroid.j2ghz.com/repo`. If you want to see all versions, not just 3 latest, you can use `https://fdroid.j2ghz.com/archive` as well. You can test availability by checking https://fdroid.j2ghz.com/repo/index.xml
