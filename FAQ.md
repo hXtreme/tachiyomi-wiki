@@ -29,7 +29,7 @@
 # Frequently Asked Questions
 
 **Q: Can you add <_insert name_> catalog?**  
-A: Not for now, that part is currenty being rewritten. [#239](https://github.com/inorichi/tachiyomi/pull/239)
+A: Not for now, that part is currently being rewritten. [#239](https://github.com/inorichi/tachiyomi/pull/239)
 
 **Q: I lost everything, what now?**  
 A: Tachiyomi is still in beta. Some design changes or unexpected errors may lead to data loss. While I try for them not to happen, sometimes is unavoidable.
