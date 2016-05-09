@@ -26,7 +26,7 @@
 * Autodetect image's borders. [#219](https://github.com/inorichi/tachiyomi/issues/219)
 * Import bookmarks from Bato.to or Kissmanga. [#250](https://github.com/inorichi/tachiyomi/issues/250)
 
-# FAQ
+# Frequently Asked Questions
 
 **Q: Can you add <_insert name_> catalog?**  
 A: Not for now, that part is currenty being rewritten. [#239](https://github.com/inorichi/tachiyomi/pull/239)
