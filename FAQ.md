@@ -1,7 +1,6 @@
 # Known issues
 
 * Wrong chapter ordering. [#9](https://github.com/inorichi/tachiyomi/issues/9) [#243](https://github.com/inorichi/tachiyomi/issues/243)
-* Kissmanga doesn't work. [#172](https://github.com/inorichi/tachiyomi/issues/172)
 
 # Planned to do
 
