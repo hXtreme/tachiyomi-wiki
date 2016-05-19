@@ -6,7 +6,6 @@
 
 * Automatic app updates.
 * Hummingbird support. [#66](https://github.com/inorichi/tachiyomi/issues/66)
-* Update per category. [#158](https://github.com/inorichi/tachiyomi/issues/158)
 * Library as a list. [#224](https://github.com/inorichi/tachiyomi/issues/224)
 * Custom catalogues. [#239](https://github.com/inorichi/tachiyomi/pull/239)
 
