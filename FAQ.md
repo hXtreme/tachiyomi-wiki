@@ -46,8 +46,5 @@ A: Aside from network issues, it could be because the images are too big. Try to
 **Q: I can't find a manga in MAL's search results.**  
 A: You can search a manga from your MAL list like this: _my: \<manga\>_. [#65](https://github.com/inorichi/tachiyomi/issues/65)
 
-**Q: Why Kissmanga doesn't work?**  
-A: [#172](https://github.com/inorichi/tachiyomi/issues/172)
-
 **Q: Why do I get a key error when installing?**  
 A: F-Droid uses a different signing key than my release, so you can't switch between them. Nevertheless, you can backup and restore the data between versions. [#230](https://github.com/inorichi/tachiyomi/issues/230)
