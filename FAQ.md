@@ -1,13 +1,18 @@
 # Known issues
-
-* Wrong chapter ordering. [#9](https://github.com/inorichi/tachiyomi/issues/9) [#243](https://github.com/inorichi/tachiyomi/issues/243)
+* None
 
 # Planned to do
-
 * Automatic app updates.
 * Hummingbird support. [#66](https://github.com/inorichi/tachiyomi/issues/66)
+* AniList support. [#312](https://github.com/inorichi/tachiyomi/issues/312)
 * Library as a list. [#224](https://github.com/inorichi/tachiyomi/issues/224)
-* Custom catalogues. [#239](https://github.com/inorichi/tachiyomi/pull/239)
+
+# Requested catalogs
+* Tumangaonline! [#274](https://github.com/inorichi/tachiyomi/issues/274)
+* Mangastream [#220](https://github.com/inorichi/tachiyomi/issues/220)
+* MangaTraders [#145](https://github.com/inorichi/tachiyomi/issues/145)
+* Madokami [#140](https://github.com/inorichi/tachiyomi/issues/140)
+* Japscan [#29](https://github.com/inorichi/tachiyomi/issues/29)
 
 # Too soon or not planned yet
 
@@ -25,10 +30,6 @@
 * Import bookmarks from Bato.to or Kissmanga. [#250](https://github.com/inorichi/tachiyomi/issues/250)
 
 # Frequently Asked Questions
-
-**Q: Can you add <_insert name_> catalog?**  
-A: Not for now, that part is currently being rewritten. [#239](https://github.com/inorichi/tachiyomi/pull/239)
-
 **Q: I lost everything, what now?**  
 A: Tachiyomi is still in beta. Some design changes or unexpected errors may lead to data loss. While I try for them not to happen, sometimes is unavoidable.
 
