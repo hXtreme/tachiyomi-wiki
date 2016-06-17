@@ -47,3 +47,6 @@ A: You can search a manga from your MAL list like this: _my: \<manga\>_. [#65](h
 
 **Q: Why do I get a key error when installing?**  
 A: F-Droid uses a different signing key than my release, so you can't switch between them. Nevertheless, you can backup and restore the data between versions. [#230](https://github.com/inorichi/tachiyomi/issues/230)
+
+**Q:Can you make it possible to store manga on both internal storage and external sd card?** 
+<br>A: At the moment, no. You could try using symlinks
