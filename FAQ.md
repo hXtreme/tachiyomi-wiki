@@ -4,8 +4,6 @@
 # Planned to do
 * Hummingbird support. [#66](https://github.com/inorichi/tachiyomi/issues/66)
 * AniList support. [#312](https://github.com/inorichi/tachiyomi/issues/312)
-* Library as a list. [#224](https://github.com/inorichi/tachiyomi/issues/224)
-
 # Requested catalogs
 * Tumangaonline! [#274](https://github.com/inorichi/tachiyomi/issues/274)
 * Mangastream [#220](https://github.com/inorichi/tachiyomi/issues/220)
