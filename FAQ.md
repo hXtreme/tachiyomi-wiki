@@ -2,7 +2,6 @@
 * None
 
 # Planned to do
-* Automatic app updates.
 * Hummingbird support. [#66](https://github.com/inorichi/tachiyomi/issues/66)
 * AniList support. [#312](https://github.com/inorichi/tachiyomi/issues/312)
 * Library as a list. [#224](https://github.com/inorichi/tachiyomi/issues/224)
@@ -22,7 +21,6 @@
 * Stream manga from computer. [#88](https://github.com/inorichi/tachiyomi/issues/88)
 * Bookmarking chapters. [#89](https://github.com/inorichi/tachiyomi/issues/89)
 * Show scanlation groups. [#107](https://github.com/inorichi/tachiyomi/issues/107)
-* Reading history. [#111](https://github.com/inorichi/tachiyomi/issues/111)
 * Statistics. [#115](https://github.com/inorichi/tachiyomi/issues/115)
 * Download new chapters automatically. [#116](https://github.com/inorichi/tachiyomi/issues/116)
 * Double page viewer. [#149](https://github.com/inorichi/tachiyomi/issues/149)
