@@ -37,7 +37,7 @@ A: Try to use only one simultaneous download. The more slots you use the more un
 **Q: Why some images aren't displayed?**  
 A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. Try using another image decoder.
 
-**Q: Some covers are white after restoring from backup.** 
+**Q: Some covers are white after restoring from backup.**   
 A: The url to the cover has changed. To fix this, refresh the metadata of your library in Settings > Advanced.
 
 **Q: I can't find a manga in MAL's search results.**  
