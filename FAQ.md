@@ -35,7 +35,10 @@ A: You can enable automatic updates in the about section of the settings (releas
 A: Try to use only one simultaneous download. The more slots you use the more unstable it becomes. Be aware that it could be a network issue on your terminal or on the catalog you are trying to download from.
 
 **Q: Why some images aren't displayed?**  
-A: Aside from network issues, it could be because the images are too big. Try to enable "_Reencode images_" on "_Settings > Advanced_" and select "_Skia_" on "_Settings > Reader > Image decoder_". You will have to clear the cache or redownload the chapter.
+A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. Try using another image decoder.
+
+**Q: Some covers are white after restoring from backup.**
+A: The url to the cover has changed. To fix this, refresh the metadata of your library in Settings > Advanced.
 
 **Q: I can't find a manga in MAL's search results.**  
 A: You can search a manga from your MAL list like this: _my: \<manga\>_. [#65](https://github.com/inorichi/tachiyomi/issues/65)
