@@ -15,11 +15,9 @@
 # Too soon or not planned yet
 
 * Global search. [#45](https://github.com/inorichi/tachiyomi/issues/45)
-* Sort by last updated. [#70](https://github.com/inorichi/tachiyomi/issues/70)
 * Stream manga from computer. [#88](https://github.com/inorichi/tachiyomi/issues/88)
 * Show scanlation groups. [#107](https://github.com/inorichi/tachoyomi/issues/107)
 * Statistics. [#115](https://github.com/inorichi/tachiyomi/issues/115)
-* Download new chapters automatically. [#116](https://github.com/inorichi/tachiyomi/issues/116)
 * Double page viewer. [#149](https://github.com/inorichi/tachiyomi/issues/149)
 * Autodetect image's borders. [#219](https://github.com/inorichi/tachiyomi/issues/219)
 * Import bookmarks from Bato.to or Kissmanga. [#250](https://github.com/inorichi/tachiyomi/issues/250)
