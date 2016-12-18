@@ -7,6 +7,7 @@ The repo url is `https://fdroid.j2ghz.com/repo`. If you want to see all versions
 2. Install `Tachiyomi` from F-Droid (app id `eu.kanade.tachiyomi.debug`)
 
 # Announcements
+* 18.12.2016 Down
 * 29.09.2016 Up
 * 28.09.2016 Down, router misconfiguration
 * 23.06.2016 Up
