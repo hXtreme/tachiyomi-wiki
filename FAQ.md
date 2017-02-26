@@ -1,16 +1,8 @@
 # Known issues
-* None
+* None. Please report them! Either a crash or something not working like it should.
 
-# Planned to do
-* Hummingbird support. [#66](https://github.com/inorichi/tachiyomi/issues/66)
-* AniList support. [#312](https://github.com/inorichi/tachiyomi/issues/312)
-
-# Requested catalogs
-* Tumangaonline! [#274](https://github.com/inorichi/tachiyomi/issues/274)
-* Mangastream [#220](https://github.com/inorichi/tachiyomi/issues/220)
-* MangaTraders [#145](https://github.com/inorichi/tachiyomi/issues/145)
-* Madokami [#140](https://github.com/inorichi/tachiyomi/issues/140)
-* Japscan [#29](https://github.com/inorichi/tachiyomi/issues/29)
+# Catalog requests
+Please place your request in the [extensions repository](https://github.com/inorichi/tachiyomi-extensions/issues).
 
 # Too soon or not planned yet
 
@@ -19,7 +11,6 @@
 * Show scanlation groups. [#107](https://github.com/inorichi/tachoyomi/issues/107)
 * Statistics. [#115](https://github.com/inorichi/tachiyomi/issues/115)
 * Double page viewer. [#149](https://github.com/inorichi/tachiyomi/issues/149)
-* Autodetect image's borders. [#219](https://github.com/inorichi/tachiyomi/issues/219)
 * Import bookmarks from Bato.to or Kissmanga. [#250](https://github.com/inorichi/tachiyomi/issues/250)
 
 # Frequently Asked Questions
@@ -44,5 +35,5 @@ A: You can search a manga from your MAL list like this: _my: \<manga\>_. [#65](h
 **Q: Why do I get a key error when installing?**  
 A: F-Droid uses a different signing key than my release, so you can't switch between them. Nevertheless, you can backup and restore the data between versions. [#230](https://github.com/inorichi/tachiyomi/issues/230)
 
-**Q:Can you make it possible to store manga on both internal storage and external sd card?** 
+**Q: Can you make it possible to store manga on both internal storage and external sd card?** 
 <br>A: At the moment, no. You could try using symlinks
