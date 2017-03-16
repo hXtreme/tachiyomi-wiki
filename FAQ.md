@@ -23,7 +23,7 @@ A: You can enable automatic updates in the about section of the settings (releas
 **Q: Downloads are unstable.**  
 A: Try to use only one simultaneous download. The more slots you use the more unstable it becomes. Be aware that it could be a network issue on your terminal or on the catalog you are trying to download from.
 
-**Q: Why some images aren't displayed?**  
+**Q: Why are some images not displayed?**  
 A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. Try using another image decoder.
 
 **Q: Some covers are white after restoring from backup.**   
