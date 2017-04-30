@@ -1,4 +1,4 @@
-**DEPRECATED** New catalogues will be available [in the extensions repository](https://github.com/inorichi/tachiyomi-extensions)
+### **DEPRECATED!** New catalogues will be available [in the extensions repository](https://github.com/inorichi/tachiyomi-extensions)
 
 Since [#239](https://github.com/inorichi/tachiyomi/pull/239) it's possible to add sources using YAML files. They have to be placed under `/sdcard/Tachiyomi/parsers/[site].yml` or `/storage/emulated/0/Tachiyomi/parsers/[site].yml`(It's important to have the .yml extension).
 
