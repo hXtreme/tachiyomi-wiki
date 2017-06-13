@@ -5,6 +5,9 @@ You can leave feedback here [#844](https://github.com/inorichi/tachiyomi/issues/
 
 The translators guide can be found at https://docs.weblate.org/en/latest/user/index.html
 
+Current translation status:
+
+[![Translation status](http://weblate.j2ghz.com/widgets/tachiyomi/-/multi-auto.svg)](http://weblate.j2ghz.com/engage/tachiyomi/?utm_source=widget)
 
 # Direct code editing
 File `app/src/main/res/values/strings.xml` should be copied over to appropriate directories and then translated.
