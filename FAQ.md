@@ -6,9 +6,7 @@ Please place your request in the [extensions repository](https://github.com/inor
 
 # Too soon or not planned yet
 
-* Global search. [#45](https://github.com/inorichi/tachiyomi/issues/45)
 * Stream manga from computer. [#88](https://github.com/inorichi/tachiyomi/issues/88)
-* Show scanlation groups. [#107](https://github.com/inorichi/tachoyomi/issues/107)
 * Statistics. [#115](https://github.com/inorichi/tachiyomi/issues/115)
 * Double page viewer. [#149](https://github.com/inorichi/tachiyomi/issues/149)
 * Import bookmarks from Bato.to or Kissmanga. [#250](https://github.com/inorichi/tachiyomi/issues/250)
