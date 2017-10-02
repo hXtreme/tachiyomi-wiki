@@ -35,11 +35,3 @@ A: F-Droid uses a different signing key than my release, so you can't switch bet
 
 **Q: Can you make it possible to store manga on both internal storage and external sd card?** 
 <br>A: At the moment, no. You could try using symlinks
-
-##### Q: I'm getting 'page list is empty'
-1. Try opening the manga in browser. If there is CAPTCHA, solve it and try again.
-2. Change your internet connection ( wifi <--> mobile data or another wifi ), then try again.
-
-If any of the above solves it you are getting a CAPTCHA (or similar) and there is probably nothing that can be done about that. Switch to a different source, use a source less, don't download from the source.
-
-3. Check with other users. If everyone is having this issue, the problem could be that the website changed layout. In that case, open an issue.
