@@ -15,7 +15,7 @@ It can be accompanied by these error messages:
 3. Ask other users to try the action that gives you error.
 
 If any of these help go to [It happens only to me](#it-happens-only-to-me).
-If not, go to [Everyone is having this problem](#everyone-is-having-this-problem).
+If it's not just you, go to [Everyone is having this problem](#everyone-is-having-this-problem).
 
 # It happens only to me
 You may be getting a CAPTCHA, may have been IP-banned, or some other counter-measure that website owners deploy against programs like Tachiyomi. If that is the case, there is probably nothing that can be done about that. Some of them (like CAPTCHA) have to be manually solved, some are temporary (IP bans).
