@@ -14,6 +14,8 @@ It can be accompanied by these error messages:
 2. Change your internet connection ( wifi <--> mobile data or another wifi ), then try again.
 3. Ask other users to try the action that gives you error.
 
+Bonus step: Try the latest dev version, your issue may have been fixed. Also check versions of your extension catalogues.
+
 If any of these help go to [It happens only to me](#it-happens-only-to-me).
 If it's not just you, go to [Everyone is having this problem](#everyone-is-having-this-problem).
 
