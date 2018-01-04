@@ -11,7 +11,7 @@ It can be accompanied by these error messages:
 
 # Diagnosis
 1. Try opening the manga in browser. If there is CAPTCHA, solve it and see if it helped.
-2. Change your internet connection ( wifi <--> mobile data or another wifi ), then try again.
+2. Change your internet connection (switch to wifi, mobile data or a VPN, use a "what's my ip" site to confirm your ip has changed ), then try again.
 3. Ask other users to try the action that gives you error.
 
 Bonus step: Try the latest dev version, your issue may have been fixed. Also check versions of your extension catalogues.
