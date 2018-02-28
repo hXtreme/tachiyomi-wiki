@@ -14,4 +14,3 @@ Archive url: `https://fdroid.j2ghz.com/archive/`
 
 ## Available apps
 * `Tachiyomi (dev)` (app id `eu.kanade.tachiyomi.debug`) - Main app built from master branch
-* `Tachiyomi: *` (app id `eu.kanade.tachiyomi.extension.*`) - Extension source (* is name of site, e.g. en.batoto)
