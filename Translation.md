@@ -1,5 +1,6 @@
 # Weblate
-**The project is available at https://hosted.weblate.org/engage/tachiyomi/** (direct https://hosted.weblate.org/projects/tachiyomi/strings/)
+**The project is available at https://hosted.weblate.org/engage/tachiyomi/**
+(direct https://hosted.weblate.org/projects/tachiyomi/strings/)
 
 [![Translation status](https://hosted.weblate.org/widgets/tachiyomi/-/multi-auto.svg)](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget)
 
