@@ -4,9 +4,9 @@
 
 There is an [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) repo available, maintained by [@j2ghz](https://github.com/j2ghz).
 
-Repo url: `https://fdroid.j2ghz.com/repo/`
+Repo URL: `https://fdroid.j2ghz.com/repo/`
 
-Archive url: `https://fdroid.j2ghz.com/archive/`
+Archive URL: `https://fdroid.j2ghz.com/archive/`
 
 # How-to
 1. Install [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) ([direct](https://f-droid.org/FDroid.apk))
