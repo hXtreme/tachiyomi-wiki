@@ -19,7 +19,7 @@ A: Tachiyomi is still in beta. Some design changes or unexpected errors may lead
 A: You can enable automatic updates in the about section of the settings (release only). If you are in the stable release, you can also install it from [F-droid](https://f-droid.org/repository/browse/?fdid=eu.kanade.tachiyomi). If you want auto updates for the dev release, you can install the application following [these steps](https://github.com/inorichi/tachiyomi/wiki/FDroid-for-dev-versions).
 
 **Q: Downloads are unstable.**  
-A: Try to use only one simultaneous download. The more slots you use the more unstable it becomes. Be aware that it could be a network issue on your terminal or on the catalog you are trying to download from.
+A: ~~Try to use only one simultaneous download. The more slots you use the more unstable it becomes.~~ Be aware that it could be a network issue on your terminal or on the catalog you are trying to download from.
 
 **Q: Why are some images not displayed?**  
 A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. Try using another image decoder.
