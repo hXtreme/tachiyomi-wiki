@@ -1,7 +1,7 @@
 # Known issues
 * None. Please report them! Either a crash or something not working like it should.
 
-# Catalog requests
+# Source requests
 Please place your request in the [extensions repository](https://github.com/inorichi/tachiyomi-extensions/issues).
 
 # Too soon or not planned yet
