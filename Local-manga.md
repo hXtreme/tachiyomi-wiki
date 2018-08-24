@@ -15,3 +15,5 @@ and
 `/storage/18F5-2C11/Tachiyomi/local/my manga/ch2`
 
 the app will see two chapters in a single manga.
+
+You can then access the manga in Catalogues > Local manga.
