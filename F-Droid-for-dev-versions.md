@@ -1,5 +1,5 @@
 [![Uptime Robot status](https://img.shields.io/uptimerobot/status/m779170343-e10322ff65f84f0129b0daf9.svg?label=TeamCity)](https://status.j2ghz.com/779170343)
-[![TeamCity (simple build status)](https://img.shields.io/teamcity/https/tc.j2ghz.com/s/Tachiyomi_App.svg?label=DevVersion)](https://tc.j2ghz.com/viewType.html?buildTypeId=Tachiyomi_App&guest=1)
+[![TeamCity (simple build status)](https://img.shields.io/teamcity/https/tc.j2ghz.com/s/Tachiyomi_Build.svg?label=DevVersion)](https://tc.j2ghz.com/viewType.html?buildTypeId=Tachiyomi_Build&guest=1)
 
 
 There is an [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) repo available, maintained by [@j2ghz](https://github.com/j2ghz).
