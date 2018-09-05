@@ -4,7 +4,7 @@
 
 There is an [F-Droid](https://f-droid.org/repository/browse/?fdid=org.fdroid.fdroid) repo available, maintained by [@j2ghz](https://github.com/j2ghz).
 
-Repo URL: `https://fdroid.j2ghz.com/repo/`
+Repo URL: `https://fdroid.j2ghz.com/`
 
 Archive URL: `https://fdroid.j2ghz.com/archive/`
 
