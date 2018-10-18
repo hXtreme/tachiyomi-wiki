@@ -25,7 +25,7 @@ A: ~~Try to use only one simultaneous download. The more slots you use the more 
 A: Create your issue or see if it's already been listed [**here**](https://github.com/inorichi/tachiyomi-extensions/issues).
 
 ### Q: Why are some images not displayed?
-A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. Try using another image decoder.
+A: Aside from network issues, it could be because the images are too big or the decoder doesn't support that image. ~~Try using another image decoder.~~
 
 ### Q: Some covers are white after restoring from backup.
 A: The url to the cover has changed. To fix this, refresh the metadata of your library in Settings > Advanced.
