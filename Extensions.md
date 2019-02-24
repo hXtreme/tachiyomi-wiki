@@ -14,7 +14,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/comicake">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/comicake/res/web_hi_res_512.png?raw=true" width="60" alt="ComiCake"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/comicake/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="ComiCake"></img>
 			</a>
 		</td>
 		<td>
@@ -29,7 +29,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/ehentai">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/ehentai/res/web_hi_res_512.png?raw=true" width="60" alt="E-Hentai"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/ehentai/res/mipmap-xxxhdpi/ic_laucher.png?raw=true" width="60" alt="E-Hentai"></img>
 			</a>
 		</td>
 		<td>
@@ -44,7 +44,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/foolslide">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/foolslide/res/web_hi_res_512.png?raw=true" width="60" alt="FoolSlide"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/foolslide/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="FoolSlide"></img>
 			</a>
 		</td>
 		<td>
@@ -59,7 +59,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/mangadex">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/mangadex/res/web_hi_res_512.png?raw=true" width="60" alt="MangaDex"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/mangadex/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaDex"></img>
 			</a>
 		</td>
 		<td>
@@ -74,7 +74,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/mmrcms">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/mmrcms/res/web_hi_res_512.png?raw=true" width="60" alt="My Manga Reader CMS (Many sources)"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/mmrcms/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="My Manga Reader CMS (Many sources)"></img>
 			</a>
 		</td>
 		<td>
@@ -89,7 +89,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/myreadingmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/myreadingmanga/res/web_hi_res_512.png?raw=true" width="60" alt="MyReadingManga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/myreadingmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MyReadingManga"></img>
 			</a>
 		</td>
 		<td>
@@ -104,7 +104,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/nhentai">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/nhentai/res/web_hi_res_512.png?raw=true" width="60" alt="NHentai"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/nhentai/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="NHentai"></img>
 			</a>
 		</td>
 		<td>
@@ -119,7 +119,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/ninehentai">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/ninehentai/res/web_hi_res_512.png?raw=true" width="60" alt="NineHentai"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/ninehentai/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="NineHentai"></img>
 			</a>
 		</td>
 		<td>
@@ -134,7 +134,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/all/wpmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/wpmanga/res/web_hi_res_512.png?raw=true" width="60" alt="WPManga (Many sources)"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/all/wpmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="WPManga (Many sources)"></img>
 			</a>
 		</td>
 		<td>
@@ -159,7 +159,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/de/wiemanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/de/wiemanga/res/web_hi_res_512.png?raw=true" width="60" alt="WieManga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/de/wiemanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="WieManga"></img>
 			</a>
 		</td>
 		<td>
@@ -184,7 +184,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/arcrelight">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/arcrelight/res/web_hi_res_512.png?raw=true" width="60" alt="Arc-Relight"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/arcrelight/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Arc-Relight"></img>
 			</a>
 		</td>
 		<td>
@@ -199,7 +199,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/boredsociety">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/boredsociety/res/web_hi_res_512.png?raw=true" width="60" alt="Boredom Society"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/boredsociety/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Boredom Society"></img>
 			</a>
 		</td>
 		<td>
@@ -214,7 +214,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/dynasty">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/dynasty/res/web_hi_res_512.png?raw=true" width="60" alt="Dynasty"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/dynasty/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Dynasty"></img>
 			</a>
 		</td>
 		<td>
@@ -244,7 +244,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/kissmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/kissmanga/res/web_hi_res_512.png?raw=true" width="60" alt="Kissmanga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/kissmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Kissmanga"></img>
 			</a>
 		</td>
 		<td>
@@ -274,7 +274,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangaeden">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangaeden/res/web_hi_res_512.png?raw=true" width="60" alt="Mangaeden"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangaeden/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangaeden"></img>
 			</a>
 		</td>
 		<td>
@@ -289,7 +289,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangafox">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangafox/res/web_hi_res_512.png?raw=true" width="60" alt="Mangafox"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangafox/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangafox"></img>
 			</a>
 		</td>
 		<td>
@@ -304,7 +304,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangafree">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangafree/res/web_hi_res_512.png?raw=true" width="60" alt="Mangafree"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangafree/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangafree"></img>
 			</a>
 		</td>
 		<td>
@@ -319,7 +319,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangago">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangago"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangago/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangago"></img>
 			</a>
 		</td>
 		<td>
@@ -334,7 +334,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangahasu">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangahasu/res/web_hi_res_512.png?raw=true" width="60" alt="Mangahasu"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangahasu/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangahasu"></img>
 			</a>
 		</td>
 		<td>
@@ -349,7 +349,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangahere">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangahere/res/web_hi_res_512.png?raw=true" width="60" alt="Mangahere"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangahere/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangahere"></img>
 			</a>
 		</td>
 		<td>
@@ -364,7 +364,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangakakalot">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangakakalot/res/web_hi_res_512.png?raw=true" width="60" alt="MangaKakalot"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangakakalot/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaKakalot"></img>
 			</a>
 		</td>
 		<td>
@@ -379,7 +379,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/manganelo">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/manganelo/res/web_hi_res_512.png?raw=true" width="60" alt="MangaNelo"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/manganelo/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaNelo"></img>
 			</a>
 		</td>
 		<td>
@@ -394,7 +394,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangapark">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangapark/res/web_hi_res_512.png?raw=true" width="60" alt="MangaPark"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangapark/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaPark"></img>
 			</a>
 		</td>
 		<td>
@@ -409,7 +409,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangaplus">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangaplus/res/web_hi_res_512.png?raw=true" width="60" alt="Manga Plus by Shueisha"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangaplus/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Manga Plus by Shueisha"></img>
 			</a>
 		</td>
 		<td>
@@ -424,7 +424,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangarock">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangarock/res/web_hi_res_512.png?raw=true" width="60" alt="Manga Rock"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangarock/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Manga Rock"></img>
 			</a>
 		</td>
 		<td>
@@ -439,7 +439,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangasee">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangasee/res/web_hi_res_512.png?raw=true" width="60" alt="Mangasee"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangasee/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangasee"></img>
 			</a>
 		</td>
 		<td>
@@ -454,7 +454,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangastream">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangastream/res/web_hi_res_512.png?raw=true" width="60" alt="Mangastream"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangastream/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangastream"></img>
 			</a>
 		</td>
 		<td>
@@ -469,7 +469,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/mangazuki">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangazuki/res/web_hi_res_512.png?raw=true" width="60" alt="Mangazuki"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/mangazuki/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangazuki"></img>
 			</a>
 		</td>
 		<td>
@@ -484,7 +484,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/merakiscans">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/merakiscans/res/web_hi_res_512.png?raw=true" width="60" alt="MerakiScans"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/merakiscans/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MerakiScans"></img>
 			</a>
 		</td>
 		<td>
@@ -499,7 +499,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/naniscans">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/naniscans/res/web_hi_res_512.png?raw=true" width="60" alt="NANI? Scans"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/naniscans/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="NANI? Scans"></img>
 			</a>
 		</td>
 		<td>
@@ -514,7 +514,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/perveden">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/perveden/res/web_hi_res_512.png?raw=true" width="60" alt="Perveden"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/perveden/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Perveden"></img>
 			</a>
 		</td>
 		<td>
@@ -529,7 +529,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/questionablecontent">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/questionablecontent/res/web_hi_res_512.png?raw=true" width="60" alt="Questionable Content"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/questionablecontent/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Questionable Content"></img>
 			</a>
 		</td>
 		<td>
@@ -574,7 +574,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/readmangatoday">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/readmangatoday/res/web_hi_res_512.png?raw=true" width="60" alt="ReadMangaToday"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/readmangatoday/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="ReadMangaToday"></img>
 			</a>
 		</td>
 		<td>
@@ -589,7 +589,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/shoujosense">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/shoujosense/res/web_hi_res_512.png?raw=true" width="60" alt="ShoujoSense"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/shoujosense/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="ShoujoSense"></img>
 			</a>
 		</td>
 		<td>
@@ -604,7 +604,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/tapastic">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/tapastic/res/web_hi_res_512.png?raw=true" width="60" alt="Tapastic"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/tapastic/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Tapastic"></img>
 			</a>
 		</td>
 		<td>
@@ -619,7 +619,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/webcomics">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/webcomics/res/web_hi_res_512.png?raw=true" width="60" alt="Webcomics"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/webcomics/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Webcomics"></img>
 			</a>
 		</td>
 		<td>
@@ -634,7 +634,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/webtoons">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/webtoons/res/web_hi_res_512.png?raw=true" width="60" alt="Webtoons"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/webtoons/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Webtoons"></img>
 			</a>
 		</td>
 		<td>
@@ -649,7 +649,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/en/xkcd">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/xkcd/res/web_hi_res_512.png?raw=true" width="60" alt="xkcd"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/en/xkcd/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="xkcd"></img>
 			</a>
 		</td>
 		<td>
@@ -674,7 +674,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/es/tumangaonline">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="TuMangaOnline"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/es/tumangaonline/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="TuMangaOnline"></img>
 			</a>
 		</td>
 		<td>
@@ -699,7 +699,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/fr/japscan">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Japscan"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/fr/japscan/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Japscan"></img>
 			</a>
 		</td>
 		<td>
@@ -724,7 +724,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/it/hentaifantasy">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/hentaifantasy/res/web_hi_res_512.png?raw=true" width="60" alt="HentaiFantasy"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/hentaifantasy/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="HentaiFantasy"></img>
 			</a>
 		</td>
 		<td>
@@ -739,7 +739,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/it/mangaeden">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/mangaeden/res/web_hi_res_512.png?raw=true" width="60" alt="Mangaeden"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/mangaeden/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangaeden"></img>
 			</a>
 		</td>
 		<td>
@@ -754,7 +754,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/it/perveden">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/perveden/res/web_hi_res_512.png?raw=true" width="60" alt="Perveden"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/it/perveden/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Perveden"></img>
 			</a>
 		</td>
 		<td>
@@ -779,7 +779,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ja/rawlh">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/rawlh/res/web_hi_res_512.png?raw=true" width="60" alt="RawLH"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/rawlh/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="RawLH"></img>
 			</a>
 		</td>
 		<td>
@@ -794,7 +794,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ja/rawQQ">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/rawQQ/res/web_hi_res_512.png?raw=true" width="60" alt="RawQQ"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/rawQQ/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="RawQQ"></img>
 			</a>
 		</td>
 		<td>
@@ -809,7 +809,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ja/senmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/senmanga/res/web_hi_res_512.png?raw=true" width="60" alt="Sen Manga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ja/senmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Sen Manga"></img>
 			</a>
 		</td>
 		<td>
@@ -834,7 +834,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ko/jmana">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/jmana/res/web_hi_res_512.png?raw=true" width="60" alt="JMana"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/jmana/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="JMana"></img>
 			</a>
 		</td>
 		<td>
@@ -849,7 +849,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ko/mangashowme">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/mangashowme/res/web_hi_res_512.png?raw=true" width="60" alt="MangaShow.Me"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/mangashowme/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaShow.Me"></img>
 			</a>
 		</td>
 		<td>
@@ -864,7 +864,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ko/newtoki">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/newtoki/res/web_hi_res_512.png?raw=true" width="60" alt="NewToki"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ko/newtoki/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="NewToki"></img>
 			</a>
 		</td>
 		<td>
@@ -889,7 +889,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/centraldemangas">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/centraldemangas/res/web_hi_res_512.png?raw=true" width="60" alt="Central de Mangás"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/centraldemangas/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Central de Mangás"></img>
 			</a>
 		</td>
 		<td>
@@ -904,7 +904,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/mangahost">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangahost/res/web_hi_res_512.png?raw=true" width="60" alt="MangaHost"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangahost/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="MangaHost"></img>
 			</a>
 		</td>
 		<td>
@@ -919,7 +919,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/mangalivre">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangalivre/res/web_hi_res_512.png?raw=true" width="60" alt="Mangá Livre"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangalivre/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangá Livre"></img>
 			</a>
 		</td>
 		<td>
@@ -934,7 +934,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/mangasproject">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangasproject/res/web_hi_res_512.png?raw=true" width="60" alt="mangásPROJECT"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/mangasproject/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="mangásPROJECT"></img>
 			</a>
 		</td>
 		<td>
@@ -949,7 +949,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/saikaiscan">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/saikaiscan/res/web_hi_res_512.png?raw=true" width="60" alt="Saikai Scan"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/saikaiscan/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Saikai Scan"></img>
 			</a>
 		</td>
 		<td>
@@ -964,7 +964,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/unionmangas">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/unionmangas/res/web_hi_res_512.png?raw=true" width="60" alt="Union Mangás"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/unionmangas/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Union Mangás"></img>
 			</a>
 		</td>
 		<td>
@@ -979,7 +979,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/pt/yesmangas">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/yesmangas/res/web_hi_res_512.png?raw=true" width="60" alt="YES Mangás"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/pt/yesmangas/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="YES Mangás"></img>
 			</a>
 		</td>
 		<td>
@@ -1004,7 +1004,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/acomics">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="AComics"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/acomics/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="AComics"></img>
 			</a>
 		</td>
 		<td>
@@ -1019,7 +1019,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/comx">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/comx/res/web_hi_res_512.png?raw=true" width="60" alt="ComX"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/comx/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="ComX"></img>
 			</a>
 		</td>
 		<td>
@@ -1034,7 +1034,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/desu">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/desu/res/web_hi_res_512.png?raw=true" width="60" alt="Desu"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/desu/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Desu"></img>
 			</a>
 		</td>
 		<td>
@@ -1049,7 +1049,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/libmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="LibManga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/libmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="LibManga"></img>
 			</a>
 		</td>
 		<td>
@@ -1064,7 +1064,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/mangachan">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangachan"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/mangachan/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangachan"></img>
 			</a>
 		</td>
 		<td>
@@ -1079,7 +1079,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/mangahub">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangahub"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/mangahub/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangahub"></img>
 			</a>
 		</td>
 		<td>
@@ -1094,7 +1094,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/mangaonlinebiz">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangaonlinebiz"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/mangaonlinebiz/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mangaonlinebiz"></img>
 			</a>
 		</td>
 		<td>
@@ -1109,7 +1109,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/mintmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mintmanga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/mintmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Mintmanga"></img>
 			</a>
 		</td>
 		<td>
@@ -1139,7 +1139,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/readmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Readmanga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/readmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Readmanga"></img>
 			</a>
 		</td>
 		<td>
@@ -1154,7 +1154,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/ru/selfmanga">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/selfmanga/res/web_hi_res_512.png?raw=true" width="60" alt="Selfmanga"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/ru/selfmanga/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Selfmanga"></img>
 			</a>
 		</td>
 		<td>
@@ -1179,7 +1179,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/vi/academyvn">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/academyvn/res/web_hi_res_512.png?raw=true" width="60" alt="AcademyVN"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/academyvn/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="AcademyVN"></img>
 			</a>
 		</td>
 		<td>
@@ -1194,7 +1194,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/vi/blogtruyen">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/blogtruyen/res/web_hi_res_512.png?raw=true" width="60" alt="Blogtruyen"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/blogtruyen/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Blogtruyen"></img>
 			</a>
 		</td>
 		<td>
@@ -1209,7 +1209,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/vi/hentaivn">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/hentaivn/res/web_hi_res_512.png?raw=true" width="60" alt="HentaiVN"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/hentaivn/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="HentaiVN"></img>
 			</a>
 		</td>
 		<td>
@@ -1224,7 +1224,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/vi/iutruyentranh">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/iutruyentranh/res/web_hi_res_512.png?raw=true" width="60" alt="IuTruyenTranh"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/iutruyentranh/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="IuTruyenTranh"></img>
 			</a>
 		</td>
 		<td>
@@ -1239,7 +1239,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/vi/truyentranhlh">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/truyentranhlh/res/web_hi_res_512.png?raw=true" width="60" alt="TruyenTranhLh"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/vi/truyentranhlh/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="TruyenTranhLh"></img>
 			</a>
 		</td>
 		<td>
@@ -1264,7 +1264,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/zh/dmzj">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/zh/dmzj/res/web_hi_res_512.png?raw=true" width="60" alt="Dmzj"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/zh/dmzj/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Dmzj"></img>
 			</a>
 		</td>
 		<td>
@@ -1279,7 +1279,7 @@ All known issues with available sources and extensions
 	<tr>
 		<td rowspan="2">
 			<a href="https://github.com/inorichi/tachiyomi-extensions/tree/master/src/zh/manhuaren">
-				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/zh/manhuaren/res/web_hi_res_512.png?raw=true" width="60" alt="Manhuaren"></img>
+				<img src="https://github.com/inorichi/tachiyomi-extensions/blob/master/src/zh/manhuaren/res/mipmap-xxxhdpi/ic_launcher.png?raw=true" width="60" alt="Manhuaren"></img>
 			</a>
 		</td>
 		<td>
