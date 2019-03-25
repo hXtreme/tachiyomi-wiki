@@ -16,4 +16,6 @@ and
 
 the app will see two chapters in a single manga.
 
+The path to the folder (or archive) with images must contain both the manga title and the chapter name (as seen above).
+
 You can then access the manga in Catalogues > Local manga.
