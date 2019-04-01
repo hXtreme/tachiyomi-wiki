@@ -38,3 +38,15 @@ A: F-Droid uses a different signing key than my release, so you can't switch bet
 
 ### Q: Can you make it possible to store manga on both internal storage and external sd card?
 A: At the moment, no. You could try using symlinks
+
+### Q : My source isn't working ! 
+
+A : For now, many sources which use Cloudflare aren't working because of a Duktape error. In waiting for a fix and if you want to read manga in the app, you can find a list of sources which don't use Cloudflare here (please complete if you have a new source) : 
+
+English : 
+
+Manga Rock
+
+French : 
+
+ScanVF (in My Manga Reader CMS)
