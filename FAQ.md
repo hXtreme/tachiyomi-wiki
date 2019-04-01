@@ -1,5 +1,5 @@
 # Known issues
-* None. Please report them! Either a crash or something not working like it should.
+* Duktape errors in sources which use Cloudflare
 
 # Source requests
 Please place your request in the [extensions repository](https://github.com/inorichi/tachiyomi-extensions/issues).
