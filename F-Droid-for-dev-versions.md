@@ -1,4 +1,4 @@
-# Does not work, see https://github.com/inorichi/tachiyomi/pull/1625
+# Does not work, see https://github.com/inorichi/tachiyomi/pull/1625 and https://github.com/inorichi/tachiyomi/pull/1907
 
 There is an [F-Droid](https://f-droid.org/packages/org.fdroid.fdroid/) repo available, maintained by [@j2ghz](https://github.com/j2ghz), available at https://github.com/j2ghz/repo
 
